@@ -1,2 +1,2 @@
-#!/bin/bsdh
+#!/bin/bash
 ls -amp | sort -d
